@@ -93,6 +93,8 @@ nav {
   /* url("/api/placeholder/1200/800"); */
 
   background-image: url(../img/land.jpeg);
+  background-repeat: no-repeat;
+
   background-size: cover;
   background-position: center;
   color: white;
